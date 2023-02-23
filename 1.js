@@ -1,3 +1,3 @@
-funtion addNumber(a,b){
-  return a+b;
+funtion deleteNumber(a,b){
+  return a-b;
 }
